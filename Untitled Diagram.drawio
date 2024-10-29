@@ -182,29 +182,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ujv-txaNqrxuxrdpKOCu-1" value="Key Findings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="880" width="297" height="242" as="geometry" />
+        <mxCell id="Ujv-txaNqrxuxrdpKOCu-1" value="Key Findings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="671" y="891" width="286" height="165" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-2" value="Spatial Clusters Identified" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-1">
-          <mxGeometry x="44" y="33" width="220" height="33" as="geometry" />
+          <mxGeometry x="42.37037037037037" y="22.5" width="211.85185185185185" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-3" value="Vulnerability Patterns" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-1">
-          <mxGeometry x="55" y="110" width="198" height="33" as="geometry" />
+          <mxGeometry x="42.37037037037037" y="67.94117647058823" width="190.66666666666666" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-4" value="Policy Recommendations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-1">
-          <mxGeometry x="44" y="187" width="220" height="33" as="geometry" />
+          <mxGeometry x="42.37037037037037" y="106.76470588235294" width="211.85185185185185" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-5" value="Input Variables" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="407" y="165" width="264" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-6" value="Environmental Factors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-5">
-          <mxGeometry x="41.48571428571429" y="45.618729096989966" width="186.68571428571428" height="45.618729096989966" as="geometry" />
+          <mxGeometry x="41.48571428571429" y="65.99872909698996" width="186.68571428571428" height="45.618729096989966" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-7" value="Health Indicators" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-5">
           <mxGeometry x="41.48571428571429" y="136.8561872909699" width="155.57142857142856" height="45.618729096989966" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-8" value="Socioeconomic Variables" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Ujv-txaNqrxuxrdpKOCu-5">
-          <mxGeometry x="41.48571428571429" y="239.4983277591973" width="197.05714285714285" height="45.618729096989966" as="geometry" />
+          <mxGeometry x="41.48571428571429" y="208.9983277591973" width="197.05714285714285" height="45.618729096989966" as="geometry" />
         </mxCell>
         <mxCell id="Ujv-txaNqrxuxrdpKOCu-9" value="Main Analysis Streams" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="407" y="495" width="869" height="363" as="geometry" />
